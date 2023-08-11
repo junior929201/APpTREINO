@@ -47,7 +47,7 @@ if game.PlaceId ==  13230182363 then
         Name = "AUOTO-FARM",
         Default = false,
         Callback = function(Value)
-           _G.Autofrm = value
+           _G.Autofrm == value
            Autofrm()
         end    
     })
